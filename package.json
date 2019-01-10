@@ -1,0 +1,12 @@
+{
+  "name": "chromeMusic",
+  "version": "1.0.0",
+  "description": "音乐电台是一款chrome扩展，安装之后可以直接在浏览器上听取电台音乐，包含豆瓣电台等14个电台。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

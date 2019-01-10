@@ -1,0 +1,7 @@
+# 秘钥
+*.pem
+# output file
+*.crx
+# CHANGELOG
+CHANGELOG.md
+/node_modules
